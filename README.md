@@ -19,7 +19,7 @@ This project is a **Cargo Tracking Application** built using **VueJS**, **Google
 
 ## Installation & Setup
 
-### Prerequisites
+### Dependencies 
 Ensure you have the following installed:
 - **Node.js** (>= 14.x)
 - **npm** or **yarn**
